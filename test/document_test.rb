@@ -5,7 +5,7 @@ require "rubygems"
 require "contest"
 $LOAD_PATH.unshift("#{File.dirname(__FILE__)}/../lib")
 
-require "ali_rizvi_fixed"
+require "ali_rizvi_fixed_inc"
 
 class DocumentTest < Test::Unit::TestCase
 
